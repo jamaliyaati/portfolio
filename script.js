@@ -12,7 +12,7 @@ const TIMELINE = [
   {
     year: "2022 – 2023",
     tag: "Professional",
-    title: "Internship — CollegeSync.co",
+    title: "Intern — CollegeSync.co",
     desc: "Interned at a firm helping students navigate college applications. Sharpened professional communication, research skills, and student-focused problem solving in a fast-paced, detail-oriented environment.",
     tags: ["Social Media Management", "Communication"]
   },
@@ -26,7 +26,7 @@ const TIMELINE = [
   {
     year: "2023 – present",
     tag: "athlete",
-    title: "IRU SpeedSquad",
+    title: "Marathoner - IRU SpeedSquad",
     desc: "What started as a personal challenge grew into something bigger. Consistent training and discipline led to being scouted and recruited by IslamabadRunWithUs as an athlete. Running taught me more about consistency than any book ever did.",
     tags: ["Athletics", "Discipline", "Growth"]
   },
