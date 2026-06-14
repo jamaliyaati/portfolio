@@ -1,6 +1,4 @@
-# Ebrahim Jamali — Portfolio
-
-A personal portfolio website for Ebrahim Jamali, built as a static site with a dark editorial aesthetic inspired by avant-garde design portfolios.
+A personal portfolio website , built as a static site with a dark editorial aesthetic inspired by avant-garde design portfolios.
 
 ## Key Technologies
 

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Static portfolio site for Ebrahim Jamali. Three-file architecture: no framework, no bundler, no build step.
+Static portfolio site. Three-file architecture: no framework, no bundler, no build step.
 
 ## Key Files
 
