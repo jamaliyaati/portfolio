@@ -325,6 +325,7 @@ document.querySelectorAll('.photo-slot').forEach(slot => {
   const img = slot.querySelector('img');
 
   slot.addEventListener('mouseenter', () => {
+    if (window.matchMedia('(hover: none)').matches) return;
     const rect = slot.getBoundingClientRect();
     const clone = img.cloneNode();
     clone.classList.add('photo-expand-clone');
