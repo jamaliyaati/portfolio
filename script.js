@@ -156,8 +156,15 @@ const nav     = document.getElementById("nav");
 const menuBtn = document.getElementById("nav-menu-btn");
 const mobileMenu = document.getElementById("mobile-menu");
 
-window.addEventListener("scroll", () => {
-  nav.classList.toggle("scrolled", window.scrollY > 50);
+let ticking = false;
+window.addEventListener('scroll', () => {
+  if (!ticking) {
+    requestAnimationFrame(() => {
+      nav.classList.toggle('scrolled', window.scrollY > 50);
+      ticking = false;
+    });
+    ticking = true;
+  }
 });
 
 menuBtn.addEventListener("click", () => {
