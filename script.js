@@ -41,7 +41,7 @@ const TIMELINE = [
   year: "Dec 2024 – Dec 2025",
   tag: "Climate",
   title: "Climate Research Volunteer — Fridays For Future Pakistan",
-  desc: "Researched and cataloged systemic root causes, structural variables, and direct environmental impacts of climate-driven disasters within Pakistan. Synthesized complex climate data into digestible educational content and asset copy for national digital awareness campaigns.",
+  desc: "Conducted research on the grassroots impacts, systemic causes, and environmental consequences of climate disasters in Pakistan, transforming data-driven insights into engaging educational content for digital awareness campaigns.",
   tags: ["Climate", "Research", "Advocacy"]
 },
   

@@ -732,7 +732,8 @@ body:has(button:hover) .cursor-follower {
   background: var(--card);
   border: 1px solid var(--border);
   padding: 2.5rem;
-  min-height: 240px;
+  height: 330px;
+  overflow-y: auto;
   animation: tl-slide 0.35s ease;
 }
 
