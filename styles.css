@@ -1322,7 +1322,7 @@ body:has(button:hover) .cursor-follower {
 }
 
 @media (max-width: 480px) {
-.hero-name { font-size: clamp(2.4rem, 10vw, 4rem); }
+.hero-name { font-size: clamp(2.4rem, 12vw, 4rem); }
   .proj-grid { grid-template-columns: 1fr; }
   .photo-grid { grid-template-columns: 1fr; }
   .photo-feat { grid-column: span 1; aspect-ratio: 1; }
